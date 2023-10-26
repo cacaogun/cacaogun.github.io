@@ -1,6 +1,6 @@
 ---
 layout: post
-title: United Airlines: AWS Backup to Protect Data from Ransomware Events    
+title: United Airlines and AWS Backup to Protect Data from Ransomware Events    
 ---
 
 Ransomware is continuing as the number one threat to the data across all Industries. There have been a sizable number of Ransomware attacks in 2021 with an increase in volume (by 37 percent) during the ongoing pandemic. SonicWall recorded an all-time high of 78.4 million ransomware attacks globally in June 2021.
