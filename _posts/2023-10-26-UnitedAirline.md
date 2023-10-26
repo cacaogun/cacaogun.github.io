@@ -21,6 +21,8 @@ There are a few capabilities that enrich the security posture to protect against
 1. AWS Multi-account backup method
 2. AWS Backup Vault Lock
 
+# Study case: United Airlines and AWS Backup to Protect Data from Ransomware Events
+
 United as everyone knows is a global airline company  with hundreds of destinations around the world.  
 The cloud engineering team governs all the AWS Accounts at United. And this solution we came up with because we wanted to protect United's cloud infrastructure  from a ransomware event. 
 Assuming you are an application owner you  need to back up your applications, this diagram can walk you   through the flow.
