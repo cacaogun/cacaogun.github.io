@@ -2,9 +2,7 @@
 layout: post
 title: United Airlines and AWS Backup to Protect Data from Ransomware Events    
 ---
-
-
-
+-----------------------------
 
 # What is Ransomware attack
 
