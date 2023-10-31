@@ -3,6 +3,9 @@ layout: post
 title: United Airlines and AWS Backup to Protect Data from Ransomware Events    
 ---
 
+
+
+
 # What is Ransomware attack
 
 Ransomware is malicious code designed by cybercriminals to gain unauthorized access to systems and data and encrypt that data to block access by legitimate users. Once ransomware has locked users out of their systems and encrypted their sensitive data, cybercriminals demand a ransom to provide a decryption key to unlock the blocked systems and decrypt data. In theory, if the ransom is paid within the allotted time, systems and data are decrypted and made available once again and normal operations continue. However, if the ransom demand is not satisfied, organizations risk permanent destruction or public-facing data leaks controlled by the attacker. That there is no rule of the game.
