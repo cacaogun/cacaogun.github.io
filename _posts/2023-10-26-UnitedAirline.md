@@ -30,7 +30,7 @@ The child account as you are the owner is one of the child accounts that United 
 The central account where we manage all this central backup solution. 
 Technology stacks: IAM, Backup Vault, CloudTrail, Lambda, Stepfunction, EventBridge, Athena, QuickSight, and CloudFormation.
 
-![alt text](https://github.com/cacaogun/cacaogun.github.io/blob/master/images/Picture1.png)
+![United Airline Backup Model](https://github.com/cacaogun/cacaogun.github.io/blob/master/assets/UnitedAirline.png)
 
 # BACKING UP:
 
